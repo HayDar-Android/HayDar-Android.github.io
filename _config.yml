@@ -98,6 +98,5 @@ deploy:
   type: ''
 
 leancloud:
-app_id: QtUo6HWANzbcPLieVD2BySQ8-gzGzoHsz
-app_key: nRUjRVD0dkeqik8e76TwMxpP
-
+  app_id: QtUo6HWANzbcPLieVD2BySQ8
+  app_key: nRUjRVD0dkeqik8e76TwMxpP

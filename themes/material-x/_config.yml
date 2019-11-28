@@ -228,6 +228,7 @@ footer_post: ''
 #valine配置
 valine:
   enable: true # 如果你想用Valine评论系统，请设置enable为true
+  volantis: true
   # 还需要在根目录配置文件中添加下面这三行内容
   # leancloud:
   #   app_id: 你的appId
@@ -238,8 +239,8 @@ valine:
   placeholder: 快来评论吧~ # valine comment input placeholder(like: Please leave your footprints )
   avatar: mp # gravatar style https://valine.js.org/avatar
   pageSize: 10 # comment list page size
-  verify: false # valine verify code (true/false)
-  notify: false # valine mail notify (true/false)
+  verify: true # valine verify code (true/false)
+  notify: true # valine mail notify (true/false)
   lang: zh-cn
   highlight: true
 
