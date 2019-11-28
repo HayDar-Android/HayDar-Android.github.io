@@ -97,6 +97,12 @@ theme: material-x
 deploy:
   type: ''
 
-leancloud:
-  app_id: QtUo6HWANzbcPLieVD2BySQ8
-  app_key: nRUjRVD0dkeqik8e76TwMxpP
+#leancloud:
+#  app_id: QtUo6HWANzbcPLieVD2BySQ8
+#  app_key: nRUjRVD0dkeqik8e76TwMxpP
+gitalk: 
+  clientID: 3cb0d4d874b3356d2d7c
+  clientSecret: f790cb41b189eb75ecf321f5e75c73d543c0adff
+  repo: blog-comment
+  owner: HayDar-Android
+  admin: [HayDar-Android]
