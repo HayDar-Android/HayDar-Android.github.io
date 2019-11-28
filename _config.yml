@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: haydar blogs
+subtitle: 'haydar'
+description: '做人不要太攀比，踏踏实实做自己'
 keywords:
-author: John Doe
+author: haydar
 language: en
 timezone: ''
 
@@ -96,3 +96,8 @@ theme: material-x
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+leancloud:
+app_id: QtUo6HWANzbcPLieVD2BySQ8-gzGzoHsz
+app_key: nRUjRVD0dkeqik8e76TwMxpP
+
